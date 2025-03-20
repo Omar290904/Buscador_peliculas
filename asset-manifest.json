@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Buscador_peliculas/static/css/main.d3ee92c5.css",
+    "main.js": "/Buscador_peliculas/static/js/main.95994f48.js",
+    "static/js/453.69e04742.chunk.js": "/Buscador_peliculas/static/js/453.69e04742.chunk.js",
+    "index.html": "/Buscador_peliculas/index.html",
+    "main.d3ee92c5.css.map": "/Buscador_peliculas/static/css/main.d3ee92c5.css.map",
+    "main.95994f48.js.map": "/Buscador_peliculas/static/js/main.95994f48.js.map",
+    "453.69e04742.chunk.js.map": "/Buscador_peliculas/static/js/453.69e04742.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3ee92c5.css",
+    "static/js/main.95994f48.js"
+  ]
+}
