@@ -2,7 +2,7 @@
   "name": "buscador-peliculas",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Omar290904.github.io/buscador-peliculas"
+  "homepage": "https://Omar290904.github.io/buscador_peliculas"
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
